@@ -1,6 +1,4 @@
-# day3-visualization-assignment
-
-# Histogram of GC content
+# Distribution of GC Content in DNA Sequences
 
 ## The Task
 
