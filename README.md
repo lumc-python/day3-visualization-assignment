@@ -4,17 +4,17 @@
 
 1. Create a jupyter notebook which contains a histogram of GC content
 for all of the sequences in ```data/records.fa```.
-  - Change the number of bins to 20
-  - Add sensible titles for the axes.
-  - Change the color of the bars and their edges.
+    - Change the number of bins to 20
+    - Add sensible titles for the axes.
+    - Change the color of the bars and their edges.
 
 2. In a different notebook cell
-  - Create a boxplot of the same data
-  - Label the axes.
+    - Create a boxplot of the same data
+    - Label the axes.
 
 3. In another notebook cell
-  - create a single figure which contains both plots as subplots.
-  - Use 1 row and 2 columns.
+    - create a single figure which contains both plots as subplots.
+    - Use 1 row and 2 columns.
 
 4. Submit the notebook as your answer.
 
